@@ -1,6 +1,6 @@
 ## I do random stuff
 
-## Die hard Linux user
+## Diehard Linux user
 
 ## TDD is dumb. If the code works, it works.
 
