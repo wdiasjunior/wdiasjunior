@@ -1,16 +1,18 @@
-### Hi there 👋
+## I do random stuff
 
-<!--
-**wdiasjunior/wdiasjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Die hard Linux user
 
-Here are some ideas to get you started:
+## TDD is dumb. If the code works, it works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- TypeScript
+- Python
+- TypeScript again
+- You guessed it, C
+- Learning Rust
+
+
+                                                                        how do you center
+                                                                          things god damn it
+
+here's my [website](https://wdias.dev/)
