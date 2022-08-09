@@ -2,7 +2,7 @@
 
 ## Diehard Linux user
 
-## TDD is dumb. If the code works, it works.
+## TDD is a waste of time.
 
 ### Languages
 - TypeScript
