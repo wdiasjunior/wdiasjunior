@@ -16,3 +16,5 @@
                                                                           things god damn it
 
 here's my [website](https://wdias.dev/)
+
+wdias@wdias.dev
