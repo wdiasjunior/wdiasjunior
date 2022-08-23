@@ -2,8 +2,6 @@
 
 ## Diehard Linux user
 
-## TDD is a waste of time.
-
 ### Languages
 - TypeScript
 - Python
