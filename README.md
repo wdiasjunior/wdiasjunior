@@ -3,9 +3,9 @@
 ## Diehard Linux user
 
 ### Languages
-- TypeScript
+- JavaScript
 - Python
-- TypeScript again
+- JavaScript again
 - You guessed it, C
 - Learning Rust
 
