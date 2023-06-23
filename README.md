@@ -6,8 +6,8 @@
 - JavaScript
 - Python
 - JavaScript again
-- You guessed it, C
-- Learning Rust
+- You guessed it, Rust (but I suck at it)
+- Learning Go
 
 
                                                                         how do you center
