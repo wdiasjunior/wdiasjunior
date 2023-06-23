@@ -6,7 +6,7 @@
 - JavaScript
 - Python
 - JavaScript again
-- You guessed it, Rust (but I suck at it)
+- You guessed it, Rust
 - Learning Go
 
 
