@@ -15,4 +15,4 @@
 
 here's my [website](https://wdias.dev/)
 
-wdias@wdias.dev
+wdias at wdias dot dev
