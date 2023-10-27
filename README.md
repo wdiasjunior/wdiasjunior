@@ -7,7 +7,7 @@
 - Python
 - JavaScript again
 - You guessed it, Rust
-- Learning Go
+- Go
 
 
                                                                         how do you center
