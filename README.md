@@ -1,13 +1,15 @@
-## I do random stuff
+### I do random stuff
 
-## Diehard Linux user
+### Diehard Linux user
+*I use Arch btw*
 
-### Languages
+#### Languages
 - JavaScript
 - Python
 - JavaScript again
 - You guessed it, Rust
 - Go
+- learning Odin
 
 
                                                                         how do you center
