@@ -4,12 +4,12 @@
 *I use Arch btw*
 
 #### Languages
+- Go
 - JavaScript
 - Python
 - JavaScript again
+- C
 - You guessed it, Rust
-- Go
-- learning Odin
 
 
                                                                         how do you center
