@@ -1,7 +1,7 @@
 ### I do random stuff
 
 ### Diehard Linux user
-*I use Arch btw*
+*I use Arch, btw*
 
 #### Languages
 - Go
