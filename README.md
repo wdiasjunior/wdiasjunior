@@ -1,4 +1,4 @@
-### I do random stuff
+### I build random stuff
 
 ### Diehard Linux user
 *I use Arch, btw*
