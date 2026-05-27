@@ -4,11 +4,11 @@
 *I use Arch, btw*
 
 #### Languages
+- C
 - Go
 - JavaScript
 - Python
 - JavaScript again
-- C
 - You guessed it, Rust
 
 
